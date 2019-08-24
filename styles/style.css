@@ -4,12 +4,68 @@ body {
 
 h1 {
     font-family: 'Days One', sans-serif;
-    font-weight: bold;
-    font-size: 10em;
+    /* font-weight: bold; */
+    font-size: 5em;
     color: #ffd900;
 }
 
 hr {
-    width: 5px;
+    height: 1px;
+    background-color: #ffd900;
+    border: 1px solid #ffd900;
+}
+
+h3 {
+    font-family: 'Days One', sans-serif;
+    font-size: 2.5em;
     color: #ffd900;
+    margin-bottom: 1em;
+}
+
+a:link {
+    text-decoration: none;
+    color: bisque;
+    font-size: 1em;
+    font-family: 'Days One', sans-serif;
+}
+#hover:hover {
+    text-decoration: none;
+    color: #19F8FF;
+    font-size: 1em;
+    font-family: 'Days One', sans-serif;
+}
+
+a:visited {
+    text-decoration: none;
+    color: bisque;
+    font-size: 1em;
+    font-family: 'Days One', sans-serif;
+}
+
+#images {
+    font-family: 'Days One', sans-serif;
+    font-size: 1em;
+    color: #ffd900;
+    text-align: left;
+}
+
+h5 {
+    font-family: 'Days One', sans-serif;
+    font-size: 1.5em;
+    color: #ffd900;
+    text-align: center;
+}
+
+p {
+    font-family: 'Days One', sans-serif;
+    font-size: 1em;
+    color: bisque;
+    text-align: center;
+}
+
+#github {
+    font-family: 'Days One', sans-serif;
+    font-size: 1em;
+    color: #CC1491;
+    text-align: center;
 }
