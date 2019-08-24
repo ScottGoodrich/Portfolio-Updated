@@ -35,7 +35,7 @@ a:link {
 }
 #hover:hover {
     text-decoration: none;
-    color: #19F8FF;
+    color: #CC1491;
     font-size: 1em;
     font-family: 'Days One', sans-serif;
 }
@@ -50,7 +50,7 @@ a:visited {
 #images {
     font-family: 'Days One', sans-serif;
     font-size: 1em;
-    color: #ffd900;
+    color: bisque;
     text-align: left;
     margin-bottom: 1.5em;
 }
